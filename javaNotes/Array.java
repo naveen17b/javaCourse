@@ -2,7 +2,7 @@ package javaNotes;
 
 public class Array {
 	
-	String name;
+	//static String name=;
 
 	public static void main(String[] args) {
 		
